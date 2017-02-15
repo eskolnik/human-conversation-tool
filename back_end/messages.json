@@ -1,0 +1,17 @@
+{
+  "greetings": [
+    "Hello! How are you?",
+    "Yo Sup",
+    "Greetings, human"
+  ],
+  "responses": [
+    "Nice weather we're having, isn't it?",
+    "How bout them Patriots?",
+    "<Show them your code>",
+    "Isn't React great?",
+    "Stop trying to make 'fetch' happen.",
+    "Whatever you do, don't think about purple elephants.",
+    "I've got a lovely bunch of coconuts.",
+    "(╯°□°）╯︵ ┻━┻"
+  ]
+}
